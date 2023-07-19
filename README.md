@@ -11,7 +11,7 @@
 ## DDI_Tarea03_180247
 
 ## Descripción
-Practica de personalizacion de la pantalla como cambio de color de fuente, cambio de imagen de fondo y cambio de fuente.
+Implementacion de imagen y texto con animacion. 
 
 ## Características
 | Característica         | Información                                                              |
