@@ -17,8 +17,7 @@ Implementacion de imagen y texto con animacion.
 | Característica         | Información                                                              |
 |------------------------|--------------------------------------------------------------------------|
 | Nombre                 | Tarea 3 Fuente, Animación, Imagen                                        |
-| Descripción            | Implementacion de imagen y texto con animacion.                          |
-| Fecha de Carga         | 24/05/23                                                                 |
+| Descripción            | Implementacion de imagen y texto con animacion.                          |                                                              |
 
 
 
